@@ -1,10 +1,12 @@
 <h1 align="center">Ricardo Mendes Lima</h1>
 <p align="center">
-  Estudante de Sistemas de Informação · Desenvolvedor em início de carreira · Suporte técnico<br>
-  Água Doce do Norte – ES, Brasil
+  Desenvolvedor Júnior · Estagiário de TI com agentes de IA · Sistemas de Informação (Univale)<br>
+  Governador Valadares – MG, Brasil
 </p>
 
 <p align="center">
+  <a href="https://ricardospadetto03.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ricardospadetto03.github.io-21c58e?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://ricardospadetto03.github.io/Ricardo-Mendes-Lima-Desenvolvedor-Junior.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-0e1116?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Currículo"></a>
   <a href="mailto:ricardospadetto0303@gmail.com"><img src="https://img.shields.io/badge/E--mail-ricardospadetto0303%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
@@ -14,9 +16,9 @@
 
 Estou no último período de **Sistemas de Informação na Univale** (conclusão prevista em 2026). Gosto de resolver problemas reais com sistemas simples, organizados e fáceis de manter: já desenvolvi um sistema que está em uso por um cliente, apps acadêmicos e projetos em equipe.
 
-Atualmente faço **estágio em TI**, acompanhando a implantação de um agente de inteligência artificial em uma empresa de serviços. Meu TCC estuda o uso de **IA no apoio à tomada de decisão em pequenas empresas**.
+Atualmente sou **estagiário de TI na DP Serviços**, onde atuo na implantação e nos testes do **Thor**, um agente de inteligência artificial que edita planilhas, organiza arquivos e responde dúvidas internas, além de dar suporte aos colaboradores. Meu TCC estuda o **uso de IA como suporte à tomada de decisão gerencial em pequenas empresas**.
 
-Também sou dono da **Cadin Suspensões e Performance**, oficina de preparação de suspensões e motores de motos. Essa experiência me deu prática em atendimento ao cliente, diagnóstico de problemas e organização do trabalho, habilidades que levo para suporte técnico e desenvolvimento.
+Estou em busca da **primeira oportunidade em TI** como Desenvolvedor Júnior, Analista ou em programas de trainee.
 
 ## Tecnologias
 
@@ -63,16 +65,18 @@ App em Java para cadastro e listagem de clientes com banco local SQLite e busca 
 
 `Java` `Android Studio` `SQLite` `API REST` · [Ver repositório](https://github.com/Ricardospadetto03/app-cadastro-clientes-android)
 
-### Outros trabalhos (em breve aqui no GitHub)
+### Outros trabalhos
 - **Dinei Motos:** app de agendamento para oficina de motos, com Firebase e funcionamento como PWA.
 - **EVO Escapamentos:** protótipo de loja virtual com Bootstrap 5 e finalização de pedido pelo WhatsApp.
+- **API REST com Node.js e MySQL:** API CRUD com rotas, controllers e banco relacional, testada no Insomnia.
 - **Dashboard em Power BI:** análise de afastamentos de servidores públicos federais com dados abertos (dados.gov.br), com limpeza de dados e drill-down.
 
 ## Formação
 
-- **Sistemas de Informação** · Univale (2022 – 2026, em conclusão)
-- Cursos complementares · Fundação Bradesco
+- **Bacharelado em Sistemas de Informação** · Univale (2022 – 2026, em conclusão)
+- TCC: *Uso de Inteligência Artificial como suporte à tomada de decisão gerencial em pequenas empresas*
+- Cursos complementares · Fundação Bradesco (2026): Administrando Banco de Dados (15h), Empreendedorismo e Inovação (12h), Fundamentos de TI: Hardware e Software (7h), Crie um Site Simples com HTML, CSS e JavaScript (2h), Comunicação e Mobilização com IA (2h)
 
 ## Contato
 
-E-mail: **ricardospadetto0303@gmail.com**
+E-mail: **ricardospadetto0303@gmail.com** · Celular/WhatsApp: **(27) 99755-8023** · Portfólio: **[ricardospadetto03.github.io](https://ricardospadetto03.github.io)**
